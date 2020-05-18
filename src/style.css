@@ -1,0 +1,22 @@
+table {
+    width: 720px;
+    margin: auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.image_reference {
+    font-size: 8px;
+}
+
+.image_fit {
+    width: 900px;
+    height: 285px;
+}
+
+.image_fit_weR {
+    width: 900px;
+    height: 450px;
+}
